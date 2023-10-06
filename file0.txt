@@ -1,1 +1,2 @@
 Hello I am file0
+I already fixed bug.
